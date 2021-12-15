@@ -66,7 +66,7 @@ function Home() {
     return (
         <>
             <Container>
-                <h1>Market Vinci - 2021</h1>
+                <h1>Market Vinci</h1>
                 <h4>Filtres</h4>
                 <Container className="d-flex flex-column">
                     <Container className="d-flex flex-row justify-content-start">
