@@ -1,0 +1,12 @@
+/* LOGIN */
+.btn-primary {
+  color: rgb(0, 0, 0);
+  border-color: #006F91;
+  background-color: #006F91
+}
+
+.icon-img{
+  width: 70px;
+  height: 70px;
+  margin-bottom: 10px;
+}

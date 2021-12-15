@@ -1,0 +1,90 @@
+input:invalid {
+  border-style: dot-dash;
+}
+
+.btn.btn-outline-primary {
+  color: #006f91;
+  border-color: #006f91;
+}
+
+.customForm {
+  width: 30%;
+  background-color: #f2f2f2;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #006f91;
+  padding: 15px;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.navBtn {
+  text-decoration: none;
+}
+
+/*TABLE USERS*/
+
+.table-hover .tuple:hover {
+  background-color: rgb(9 90 165 / 74%);
+}
+
+.tdDelete {
+  width: 12%;
+  text-align: center;
+}
+
+/*CARDS*/
+
+body {
+  background: #eee;
+  font-family: "Raleway", sans-serif;
+}
+.main-part {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0px 5px;
+}
+.cpanel {
+  width: 40%;
+  display: inline-block;
+  background-color: #34495e;
+  color: #fff;
+  margin-top: 15%;
+  margin-right: 20px;
+}
+.icon-part p {
+  margin: 0px;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+.cpanel-blue .icon-part:hover,
+.cpanel-green .icon-part:hover,
+.cpanel:hover {
+  background-color: rgb(9 90 165 / 74%);
+  cursor: pointer;
+}
+.cpanel-blue .icon-part {
+  background-color: #2980b9;
+}
+.cpanel-green .icon-part {
+  background-color: #149077;
+}
+
+/*LOADING*/
+
+.loadingCenter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 2%;
+}
+
+/*FORM BUTTONS */
+.formButton {
+  display: block;
+}

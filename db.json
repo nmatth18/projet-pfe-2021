@@ -1,0 +1,11 @@
+{
+  "utilisateurs": [
+    {
+      "name": "Pierre",
+      "firstName": "Quentin",
+      "email": "quentin.pierre@student.vinci.be",
+      "password": "quentin26",
+      "id": 1
+    }
+  ]
+}
